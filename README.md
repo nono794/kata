@@ -65,7 +65,7 @@
         codeUrl: buildUrl + "/WebGLBuild.wasm.br",
         streamingAssetsUrl: "StreamingAssets",
         companyName: "DefaultCompany",
-        productName: "ピコパーク",
+        productName: "ゲーム",
         productVersion: "1.0",
         showBanner: unityShowBanner,
       };
