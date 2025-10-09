@@ -21,7 +21,7 @@
       <div id="unity-footer">
         <div id="unity-webgl-logo"></div>
         <div id="unity-fullscreen-button"></div>
-        <div id="unity-build-title">ピコパーク</div>
+        <div id="unity-build-title">ゲーム</div>
       </div>
     </div>
     <script>
